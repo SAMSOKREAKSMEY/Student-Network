@@ -1,0 +1,232 @@
+#container{
+    width: 420px;
+    height: 926px;
+    background-color: rgb(241, 238, 238);
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: auto;
+}
+body{background-color: rgb(137, 125, 204);}
+.time{
+    font-size: 20px;
+    position: relative;
+    left: 10px;
+    top: 5px;
+}
+.left-1{
+    float: left;
+}
+.right-1{
+    float: right;
+    font-size: 20px;
+    position: absolute;
+    right: 158px;
+    top: 56px;
+}
+#logo{
+    
+    position: relative;
+    right: 49px;
+    Top: 31px;
+}
+#navigator{
+    position: relative;
+    bottom: 1px;
+    display: flex;
+    bottom: 53px;
+    right: 101px
+}
+#bar{
+    border-radius: 5px;
+    width: 110%;
+    height: 23px;
+    font-size: 14px;
+    position: relative;
+    left: 216px;
+    Top:34px;
+}
+#search-icon{
+    position: relative;
+    top: 35px;
+    left: 239px;
+    color: rgb(66 39 216);
+}
+#arrow{
+    Position: relative;
+    left: 19px;
+    top: 12px;
+}
+.Box2{
+    width: 70px;
+    height: 88px;
+    background-color: rgb(241, 238, 238);
+    border: 1px solid black;
+    border-radius: 20px;
+    Position:relative;
+    left: 21px;
+    top: 23px;
+    display: inline-table;
+}
+#Logo2{
+    width: 100%;
+    height: 100%;
+    border-radius:20px ;
+}
+.Line{
+    width: 257px;
+    height: 1px;
+    border: 3px;
+    background-color: black;
+    position: relative;
+    left: 71px;
+    Top: 39px;
+}
+
+.Profile{   
+    width: 46px;
+    height: 46px;
+    border-radius: 100%;
+    Position: relative;
+    left: 7px;
+    top: 6px;
+}
+.name{
+    font-size: 15px;
+    position: relative;
+    left: 57px;
+    bottom: 54px;
+}
+.time2{
+    font-size: 13px;
+    color: gray;
+    position: relative;
+    left: 61px;
+    bottom: 63px;
+}
+.globle{
+    color: gray;
+    position: relative;
+    left: 89px;
+    bottom: 102px;
+}
+#point{
+    font-size: 27px;
+    color: gray;
+    position: relative;
+    left: 288px;
+    bottom: 117px;
+}
+#exist{
+    font-size: 27px;
+    color: gray;
+    position: relative;
+    left: 307px;
+    bottom: 120px;
+}
+#caption{
+    font-size: 15px;
+    position: relative;
+    left: 20px;
+    bottom: 101px;
+}
+.Home2{
+    position: relative;
+    left: 8px;
+    top: 62px;
+    width: 403px;
+    height: 337px;
+    border: 2px solid rgb(205 200 200);
+    background-color: #fff;
+}
+.Box4{
+    position: relative;
+    left: 10px;
+    bottom: 98px;
+    width: 184px;
+    height: 150px;
+    border: 2px solid rgb(14, 13, 13);
+    background-color: #fff; 
+}
+.Box5{
+    position: relative;
+    left: 204px;
+    bottom: 250px;
+    width: 184px;
+    height: 150px;
+    border: 2px solid rgb(14, 13, 13);
+    background-color: #fff;
+}
+#new-year{
+    width: 184px;
+    height: 150px;
+}
+#snow{
+    width: 184px;
+    height: 150px;
+}
+.Line1 {
+    width: 365px;
+    height: 1px;
+    border: 3px;
+    background-color: gray;
+    position: relative;
+    right: 186px;
+    Top: 14px;
+}
+.Line2{
+    width: 365px;
+    height: 1px;
+    border: 3px;
+    background-color: gray;
+    position: relative;
+    right: 186px;
+    Top: 52px;
+}
+#heart{
+    font-size: 25px;
+    color: gray;
+    border: 3px;
+    position: relative;
+    right: 147px;
+    Top: 20px;
+}
+#comment{
+    font-size: 25px;
+    color: gray;
+    border: 3px;
+    position: relative;
+    right: 48px;
+    Top: 19px;
+}
+#share{
+    font-size: 25px;
+    color: gray;
+    border: 3px;
+    position: relative;
+    left: 45px;
+    Top: 21px;
+}
+
+
+
+
+
+
+
+/* .Box01{
+    width: 250px;
+    height: 30px;
+    background-color: rgb(241, 238, 238);
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: relative;
+    left: 90px;
+    top: 55px;
+}
+.Text{
+    position: relative;
+    right: 30px;
+    bottom: 10px;
+    color: gray;
+} */
+
