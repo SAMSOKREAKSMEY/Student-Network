@@ -1,0 +1,39 @@
+.container{
+    border: 2px solid black;
+    margin: 20px;
+    background-color:white ;
+    width: 428px;
+    height: 926px;
+}
+.image{
+    margin-top: 130px;
+    margin-left: 70px;
+    width: 280px;
+    height: 280px;
+}
+.button{
+    margin-top: 100px;
+    margin-left: 170px;
+}
+
+.signIn{
+    margin-top: 10px;
+    border-radius: 10px ;
+    background-color: blue;
+    border: none;
+    color: white;
+    width: 90px;
+    height: 30px;
+}
+.signUp{
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: green;
+    border: none;
+    color: white;
+    width: 90px;
+    height: 30px;
+}
+.or{
+    margin-left: 35px;
+}

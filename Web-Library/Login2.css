@@ -1,0 +1,71 @@
+.container{
+    border: 2px solid black;
+    margin: 20px;
+    background-color:;
+    width: 428px;
+    height: 926px;
+}
+.image{
+    margin-top: 100px;
+    margin-left: 70px;
+    width: 280px;
+    height: 280px;
+}
+.username{
+    background-color: (217,217,217);
+    border-radius: 10px;
+    border: none;
+    margin-left: 59px;
+    margin-top: 20px;
+    width: 300px;
+    height: 45px;
+    
+}
+.textname{
+    color: gray;
+    position: relative;
+    right:100px ;
+}
+
+.Password{
+    background-color: (217,217,217);
+    border-radius: 10px;
+    border: none;
+    margin-left: 59px;
+    margin-top: 20px;
+    width: 300px;
+    height: 45px;
+}
+.textword{
+    color: gray;
+    position: relative;
+    right:100px ;
+}
+.forget{
+    font-size: 12px;
+    margin-left: 10px;
+    position: relative;
+    left: 250px;
+}
+.Login{
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    border: none;
+    margin-left: 59px;
+    margin-top: 20px;
+    width: 300px;
+    height: 35px;
+}
+.or{
+    margin-left: 200px;
+}
+.signup{
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+    margin-left: 59px;
+    width: 300px;
+    height: 35px;
+}
